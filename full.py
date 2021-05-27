@@ -1,1 +1,2 @@
-print("hello world")
+gol = input("giriniz:")
+print(gol)
